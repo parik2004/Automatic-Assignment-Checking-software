@@ -1,1 +1,1 @@
-# Automatic-Assignment-Checking-software
+# Automatic Assignment Checking software
